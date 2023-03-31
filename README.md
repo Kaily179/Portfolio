@@ -4,7 +4,7 @@
 ![622f5ab3c267051b690b6e6c_NLP Tools_Thumbnail](https://user-images.githubusercontent.com/78451214/201503092-6020e3f0-25e8-41a6-9954-b8c2ee1c1e0c.png)
 
 <pre>
-Code  : <a href=https://github.com/DATA-606-FALL-2022/Data606_Ling/tree/main/Code> Notebook </a> </a>
+Code  : <a href=https://github.com/Kaily179/Portfolio/tree/main/Code> Notebook </a> </a>
 Data Source  : <a href=https://github.com/DATA-606-FALL-2022/Data606_Ling/tree/main/Data> Data </a> </a>
 Power Point:  <a href=https://github.com/DATA-606-FALL-2022/Data606_Ling/blob/main/Sentiment%20Analysis%20-%20%20Amazon%20review.pptx>Presentation</a>
 Video: <a href=https://youtu.be/rzPBnFjj4vA>Youtube</a>
